@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main(){
 int x,y;
-printf ("Enter the  value of x ");
+printf ("Enter the value of x ");
 scanf("%d",&x);
 printf("Enter the value nof y");
 scanf("%d",&y);
